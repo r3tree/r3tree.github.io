@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "[复现] 利用x64dbg破解注册Sublime Text 4"
 date: 2024-09-11
 music-id: 

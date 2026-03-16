@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "开源SOAR：OctoMation的安装"
 date: 2024-10-28
 music-id: 

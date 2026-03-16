@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "2024某CTF比赛wp"
 date: 2024-10-20
 music-id: 

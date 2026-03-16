@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "[分享] fastjson反序列化漏洞全版本总结"
 date: 2024-04-11
 music-id: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "encrypt-labs靶场练习，前端加解密配合burp插件：JsRpc、Galaxy"
 date: 2024-11-19
 music-id: 

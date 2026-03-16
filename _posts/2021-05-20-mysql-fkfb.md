@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "MySql分库分表笔记"
 date: 2021-05-20
 music-id: 

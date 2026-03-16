@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "安卓模拟器安装Magisk、xposed、LSPosed和SSL pinning单双向绕过"
 date: 2023-12-18
 music-id: 

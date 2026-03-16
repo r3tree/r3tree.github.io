@@ -1,6 +1,6 @@
 ---
 layout: post
-author: d1sbb
+author: r3tree
 title: "学习go笔记"
 date: 2024-10-01
 music-id: 
